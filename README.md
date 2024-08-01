@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning how to use GIThub and learn Python
 🤔 I’m looking for help with using Python to manage data and create visualizations and develop models for predictive analysis.
 📫 How to reach me: You can send me an email or message me on this platform I think.
-⚡ Fun fact: I like cook!!
+⚡ Fun fact: I like to cook!!
